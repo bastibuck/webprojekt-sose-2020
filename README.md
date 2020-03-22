@@ -2,8 +2,10 @@
 
 ## Herzlich Willkommen
 
-Pro Lektion wird es einen Ordner geben, in dem ggf. Material zur Verfügung gestellt wird. Ein zusammenfassendes Dokument der einzelnen Lektionen werde ich euch über den Chat zur Verfügung stellen.
+Schön, dass ihr an meinem Kurs "Webprojekt" im Sommersemester 2020 von [opencampus](https://edu.opencampus.sh/) teilnehmt.
+
+Hier findet ihr alle Materialien, die ich euch zur Verfügung stellen möchte. Sei es Startpunkte für Hausaufgaben, Links zu Ressourcen oder Beispiele. Pro Lektion wird es einen Ordner geben. Ein zusammenfassendes Dokument der einzelnen Lektionen werde ich euch jeweils über den Chat zur Verfügung stellen.
 
 ### Lektionen
 
-[Lektion 01: Auftakt](https://github.com/bastibuck/webprojekt-sose-2020/tree/lesson-1/lesson-01) - Wer bin ich und was mache ich eigentlich hier?
+[Lektion 01: Auftakt](https://github.com/bastibuck/webprojekt-sose-2020/master/lesson-1/lesson-01) - Wer bin ich und was mache ich eigentlich hier?
