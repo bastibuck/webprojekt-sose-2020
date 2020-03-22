@@ -9,9 +9,18 @@ Ich möchte im Webprojekt-Kurs mein eigenes Portfolio entwickeln. Hier sollen un
 - Lebenslauf
 - Gallerie mit Beispielen meiner Arbeiten
 
+## Beispiele anderer Personen
+
+- https://mattfarley.ca/
+- https://www.dejan.works/
+- https://caferati.me/
+- http://www.emilyridge.ie/
+
+Source: https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
+
 ## Hinweise an Teilnehmer
 
-Ihr lest aktuell die interpretierte Version dieses Dokuments. Schaut euch einmal parallel den [Quelltext]() an.
+Ihr lest aktuell die interpretierte Version dieses Dokuments. Schaut euch einmal parallel den [Quelltext](https://github.com/bastibuck/webprojekt-sose-2020/raw/lesson-1/lesson-01/hausaufgabe/example.md) an.
 
 Hier sehr ihr, dass bspw. Überschriften mit einer oder mehreren `#` gekennzeichnet werden.
 
