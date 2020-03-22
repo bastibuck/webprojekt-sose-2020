@@ -6,4 +6,4 @@ Pro Lektion wird es einen Ordner geben, in dem ggf. Material zur Verfügung gest
 
 ### Lektionen
 
-[Lektion 01: Auftakt](https://github.com/bastibuck/webprojekt-sose-2020/blob/lesson-01/lesson-01) - Wer bin ich und was mache ich eigentlich hier?
+[Lektion 01: Auftakt](https://github.com/bastibuck/webprojekt-sose-2020/tree/lesson-1/lesson-01) - Wer bin ich und was mache ich eigentlich hier?
