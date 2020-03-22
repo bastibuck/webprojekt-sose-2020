@@ -1,1 +1,1 @@
-# webprojekt-sose-2020
+# Webprojekt SoSe 2020
