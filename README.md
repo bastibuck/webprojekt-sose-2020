@@ -10,7 +10,7 @@ Hier findet ihr alle Materialien, die ich euch zur Verfügung stellen möchte. S
 
 - [**Lektion 01: Auftakt**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-01) - Wer bin ich und was mache ich eigentlich hier?
 - [**Lektion 02: HTML**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-02) - Inhalte strukturieren
-- **Lektion 03: HTML & CSS** - Wie wird das jetzt schön?
+- [**Lektion 03: HTML & CSS**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-03) - Wie wird das jetzt schön?
 - **Lektion 04: CSS** - Schönheit 2.0
 - **Lektion 05: Frameworks** - Geht das auch einfacher?
 - **Lektion 06: JS** - Wenn dies, dann das
