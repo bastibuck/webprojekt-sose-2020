@@ -1,0 +1,32 @@
+div {
+  background-color: deepskyblue;
+}
+
+span {
+  color: blue;
+}
+
+body {
+  font-size: 20px;
+}
+
+img {
+  height: 180px;
+
+  /* dies ist ein Shorthand */
+  border: 10px dotted black;
+
+  /* das ist die Langfassung von 'border' */
+  border-width: 10px;
+  border-style: dotted;
+  border-color: black;
+}
+
+h1 {
+  background-color: gold;
+  display: inline;
+}
+
+h1 {
+  display: block;
+}
