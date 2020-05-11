@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+/* ignore above style; it just resets browser defaults */
+
+.box-modell {
+  background: red;
+  width: 400px;
+  height: 200px;
+  padding: 30px;
+  border: 10px solid black;
+  margin: 50px;
+}

@@ -1,0 +1,11 @@
+strong {
+  color: red;
+}
+
+ul strong {
+  color: blue;
+}
+
+ul li > strong {
+  color: green;
+}

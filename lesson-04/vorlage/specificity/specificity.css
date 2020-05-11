@@ -1,0 +1,44 @@
+body {
+  font-size: 30px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 200px;
+}
+
+/* ignore above rules; it's just to move elements into center */
+
+/* step 1: order */
+h2 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+/* step 2: class */
+.color-red {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+/* step 3: ID */
+#blue {
+  color: blue;
+}
+
+.color-red {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+/* step 4: inline */
+/*  style="color: orange;" */
