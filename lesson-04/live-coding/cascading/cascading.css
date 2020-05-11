@@ -1,0 +1,23 @@
+ul li > strong {
+  color: red;
+}
+
+footer a {
+  color: white;
+}
+
+.klasse {
+  color: red;
+}
+
+h2 {
+  color: orange;
+}
+
+#blau {
+  color: blue;
+}
+
+h2 {
+  color: green;
+}
