@@ -1,21 +1,25 @@
 function addItem() {
-  var newItem = document.createElement("li");
   var items = document.querySelectorAll("li").length;
+  console.log(items); // log amount of items to console
 
-  switch (items) {
-    case 3:
-      newItem.textContent = "Rust";
-      break;
-    case 4:
-      newItem.textContent = "Python";
-      break;
-    case 5:
-      newItem.textContent = "C#";
-      break;
+  if (items === 6) {
+    return; // we return nothing from this function, so it ends here
   }
 
-  if (items < 6) {
-    document.querySelector("#coding-languages").appendChild(newItem);
-    items++;
+  var newItem = document.createElement("li");
+
+  if (items === 3) {
+    newItem.textContent = "Rust";
   }
+
+  if (items === 4) {
+    newItem.textContent = "Python";
+  }
+
+  if (items === 5) {
+    newItem.textContent = "C#";
+  }
+
+  // add item to list
+  document.querySelector("#coding-languages").appendChild(newItem);
 }
