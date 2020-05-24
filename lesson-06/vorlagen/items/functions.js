@@ -1,13 +1,14 @@
 function addItem() {
-  var items = document.querySelectorAll("li").length;
+  var items = document.querySelectorAll("li").length; // get all items and count them
   console.log(items); // log amount of items to console
 
   if (items === 6) {
     return; // we return nothing from this function, so it ends here
   }
 
-  var newItem = document.createElement("li");
+  var newItem = document.createElement("li"); // create new list item
 
+  // add different item text depending on count
   if (items === 3) {
     newItem.textContent = "Rust";
   }
