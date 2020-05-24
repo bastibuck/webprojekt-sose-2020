@@ -1,6 +1,6 @@
 var http = require("http");
 
-function hello(name) {
+function sayHello(name) {
   return `<h1>Hello ${name.replace("/", "")}</h1>`;
 }
 
@@ -9,7 +9,7 @@ http
     if (req.url === undefined || req.url.includes("favicon")) return;
 
     res.writeHead(200, { "Content-Type": "text/html" });
-    res.end(hello(req.url));
+    res.end(sayHello(req.url));
   })
   .listen(8080);
 
