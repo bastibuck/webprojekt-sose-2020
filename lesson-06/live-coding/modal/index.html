@@ -14,17 +14,16 @@
     />
 
     <link rel="stylesheet" href="style.css" />
-    <script src="functions.js"></script>
   </head>
   <body>
     <div class="main">
-      <button class="fancy-btn" id="my-cool-btn">
+      <button class="fancy-btn" id="my-cool-btn" onclick="openModal()">
         <span>Click me!</span>
       </button>
 
-      <div id="modal" class="overlay">
+      <div id="modal" class="overlay hidden">
         <div class="modal-content">
-          <button class="btn-close-modal">X</button>
+          <button class="btn-close-modal" onclick="closeModal()">X</button>
 
           <h2>Mein Overlay</h2>
           <div class="flex">
@@ -47,5 +46,7 @@
         </div>
       </div>
     </div>
+
+    <script src="functions.js"></script>
   </body>
 </html>

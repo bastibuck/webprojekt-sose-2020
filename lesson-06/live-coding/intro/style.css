@@ -38,7 +38,7 @@ button:after {
   z-index: 10;
 }
 
-button:after {
-  left: 70%;
+button:hover:after {
+  left: 120%;
   transition: all 550ms cubic-bezier(0.19, 1, 0.22, 1);
 }
