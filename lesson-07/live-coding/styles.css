@@ -41,5 +41,23 @@ nav {
   background-size: cover;
   display: flex;
   align-items: center;
-  height: 150px;
+  height: 150px; /* <-- override this */
+}
+
+/* tablet */
+@media (max-width: 1199px) {
+  ul {
+    flex-direction: column;
+  }
+
+  nav {
+    height: auto;
+  }
+}
+
+/* mobile */
+@media (max-width: 599px) {
+  body {
+    background: red;
+  }
 }
