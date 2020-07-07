@@ -16,4 +16,4 @@ Hier findet ihr alle Materialien, die ich euch zur Verfügung stellen möchte. S
 - [**Lektion 06: JS**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-06) - Wenn dies, dann das
 - [**Lektion 07: Responsive Webdesign & QnA**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-07) - Make it fit
 - [**Lektion 08: Frontend-Frameworks & QnA**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-08) - The modern way
-- **Lektion 09: Projektvorstellung** - Look at my website!
+- [**Lektion 09: Projektvorstellung**](https://github.com/bastibuck/webprojekt-sose-2020/tree/master/lesson-09) - Look at my website!
